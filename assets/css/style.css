@@ -195,7 +195,7 @@ p {
 
 .scrooling-active {
   padding: 15px 0px;
-  background: #edc967;
+  background: #000000;
   box-shadow: 2px 1px 12px 0px #888888 !important;
   z-index: 99; }
   .scrooling-active .navbar-nav .dropdown-items a i {
@@ -262,7 +262,7 @@ header {
   .navbar-nav .nav-item .btn {
     border: 1px dashed #edc967;
     color: #fff;
-    background: #edc967;
+    background: #000000;
     padding: 12px 20px; }
 /*
  Sinle Page's Custom CSS
@@ -282,7 +282,7 @@ header {
 
 @media screen and (max-width: 991px) {
   header {
-    background: #edc967;
+    background: #000000;
     position: fixed;
     top: 0;
     width: 100%;
