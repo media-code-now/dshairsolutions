@@ -194,7 +194,7 @@ p {
   width: 100%; }
 
 .scrooling-active {
-  padding: 15px 0px;
+  /* padding: 15px 0px; */
   background: #000000;
   box-shadow: 2px 1px 12px 0px #888888 !important;
   z-index: 99; }
@@ -222,7 +222,8 @@ header {
   top: 0;
   width: 100%;
   z-index: 1;
-  padding: 15px 0px; }
+  /* padding: 15px 0px; } */
+}
 
 .navbar-nav .dropdown-items {
   position: relative;
